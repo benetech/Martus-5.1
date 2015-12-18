@@ -4,3 +4,45 @@
 [submodule "martus-build"]
 	path = martus-build
 	url = https://github.com/johnhbenetech/martus.martus-build.git
+[submodule "martus-client"]
+	path = martus-client
+	url = https://github.com/johnhbenetech/martus.martus-client.git
+[submodule "martus-thirdparty"]
+	path = martus-thirdparty
+	url = https://github.com/johnhbenetech/martus.martus-thirdparty.git
+[submodule "martus-csv2xml"]
+	path = martus-csv2xml
+	url = https://github.com/johnhbenetech/martus.martus-csv2xml.git
+[submodule "martus-utils"]
+	path = martus-utils
+	url = https://github.com/johnhbenetech/martus.martus-utils.git
+[submodule "martus-swing"]
+	path = martus-swing
+	url = https://github.com/johnhbenetech/martus.martus-swing.git
+[submodule "martus-mspa"]
+	path = martus-mspa
+	url = https://github.com/johnhbenetech/martus.martus-mspa.git
+[submodule "martus-meta"]
+	path = martus-meta
+	url = https://github.com/johnhbenetech/martus.martus-meta.git
+[submodule "martus-logi"]
+	path = martus-logi
+	url = https://github.com/johnhbenetech/martus.martus-logi.git
+[submodule "martus-jar-verifier"]
+	path = martus-jar-verifier
+	url = https://github.com/johnhbenetech/martus.martus-jar-verifier.git
+[submodule "martus-hrdag"]
+	path = martus-hrdag
+	url = https://github.com/johnhbenetech/martus.martus-hrdag.git
+[submodule "martus-common"]
+	path = martus-common
+	url = https://github.com/johnhbenetech/martus.martus-common.git
+[submodule "martus-docs"]
+	path = martus-docs
+	url = https://github.com/johnhbenetech/martus.martus-docs.git
+[submodule "martus-clientside"]
+	path = martus-clientside
+	url = https://github.com/johnhbenetech/martus.martus-clientside.git
+[submodule "martus-bc-jce"]
+	path = martus-bc-jce
+	url = https://github.com/johnhbenetech/martus.martus-bc-jce.git
