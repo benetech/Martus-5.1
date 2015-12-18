@@ -1,3 +1,6 @@
 [submodule "martus-amplifier"]
 	path = martus-amplifier
 	url = https://github.com/johnhbenetech/martus.martus-amplifier.git
+[submodule "martus-build"]
+	path = martus-build
+	url = https://github.com/johnhbenetech/martus.martus-build.git
