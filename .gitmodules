@@ -1,3 +1,48 @@
 [submodule "martus-thirdparty"]
 	path = martus-thirdparty
 	url = https://github.com/benetech/martus.martus-thirdparty
+[submodule "martus-build"]
+	path = martus-build
+	url = https://github.com/benetech/martus.martus-build
+[submodule "martus-client"]
+	path = martus-client
+	url = https://github.com/benetech/martus.martus-client
+[submodule "martus-csv2xml"]
+	path = martus-csv2xml
+	url = https://github.com/benetech/martus.martus-csv2xml
+[submodule "martus-utils"]
+	path = martus-utils
+	url = https://github.com/benetech/martus.martus-utils
+[submodule "martus-swing"]
+	path = martus-swing
+	url = https://github.com/benetech/martus.martus-swing
+[submodule "martus-mspa"]
+	path = martus-mspa
+	url = https://github.com/benetech/martus.martus-mspa
+[submodule "martus-meta"]
+	path = martus-meta
+	url = https://github.com/benetech/martus.martus-meta
+[submodule "martus-logi"]
+	path = martus-logi
+	url = https://github.com/benetech/martus.martus-logi
+[submodule "martus-jar-verifier"]
+	path = martus-jar-verifier
+	url = https://github.com/benetech/martus.martus-jar-verifier
+[submodule "martus-hrdag"]
+	path = martus-hrdag
+	url = https://github.com/benetech/martus.martus-hrdag
+[submodule "martus-common"]
+	path = martus-common
+	url = https://github.com/benetech/martus.martus-common
+[submodule "martus-docs"]
+	path = martus-docs
+	url = https://github.com/benetech/martus.martus-docs
+[submodule "martus-clientside"]
+	path = martus-clientside
+	url = https://github.com/benetech/martus.martus-clientside
+[submodule "martus-bc-jce"]
+	path = martus-bc-jce
+	url = https://github.com/benetech/martus.martus-bc-jce
+[submodule "martus-amplifier"]
+	path = martus-amplifier
+	url = https://github.com/benetech/martus.martus-amplifier
