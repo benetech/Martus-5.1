@@ -1,0 +1,3 @@
+[submodule "martus-thirdparty"]
+	path = martus-thirdparty
+	url = https://github.com/benetech/martus.martus-thirdparty
