@@ -46,3 +46,6 @@
 [submodule "martus-amplifier"]
 	path = martus-amplifier
 	url = https://github.com/benetech/martus.martus-amplifier
+[submodule "Martus-Server-5.1"]
+	path = Martus-Server-5.1
+	url = https://github.com/benetech/Martus-Server-5.1.git
