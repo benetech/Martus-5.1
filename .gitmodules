@@ -49,3 +49,6 @@
 [submodule "Martus-Server-5.1"]
 	path = Martus-Server-5.1
 	url = https://github.com/benetech/Martus-Server-5.1.git
+[submodule "Martus-Mobile-Android"]
+	path = Martus-Mobile-Android
+	url = https://github.com/benetech/Martus-Mobile-Android.git
